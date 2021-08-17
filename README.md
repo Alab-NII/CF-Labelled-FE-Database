@@ -5,7 +5,7 @@ The FEs were extracted with our proposed method.
 
 The detail of this dataset was written in the following paper:
 
-> Iwatsuki, K., & Aizawa, A. (2021). Extraction of Formulaic Expressions from Scientific Papers. In *Proceedings of the AAAI-21 Workshop on Scientific Document Understanding*, to appear.
+> Iwatsuki, K., & Aizawa, A. (2021). Extraction of Formulaic Expressions from Scientific Papers. In *Proceedings of the AAAI-21 Workshop on Scientific Document Understanding*.
 
 ```
 @inproceedings{Iwatsuki2021SDU,
@@ -16,7 +16,7 @@ The detail of this dataset was written in the following paper:
 }
 ```
 
-The paper is available on ResearchGate (https://www.researchgate.net/publication/347983051) until the official proceedings are published.
+The paper is available on CEUR-WS (http://ceur-ws.org/Vol-2831/paper6.pdf).
 
 ## Licence
 
